@@ -1,0 +1,151 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#map iframe {
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#School {
+    font-family: cursive;
+    padding: 50px;
+    text-align: center;
+}
+
+#School {
+    color: black;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.channel {
+    color: red;
+    font-size: 30px;
+}
+
+.channel hover {
+    background-color: black;
+}
+
+h5 {
+    text-align: center;
+    font-size: 30px;
+}
+
+#v iframe {
+    width: 80%;
+}
+
+#School iframe {
+    width: 80%;
+}
+
+.s_mainDIV {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.s_mainDIV img {
+    width: 25%;
+}
+
+.s_mainDIV hr {
+    width: 230px;
+}
+
+.s_mainDIV h5;
+
+.s_mainDIV p {
+    margin-left: 20px;
+
+}
+
+.s_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+.s_head i {
+    float: right;
+}
+
+.s_text span {
+    color: #ff7700;
+}
+
+.n_li {
+    margin-top: 13px;
+}
+
+.n_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.n_li img {
+    border-radius: 25px;
+}
+
+.n_li p {
+    margin-top: 10px;
+}
+
+
+.alumni {
+    cursor: pointer;
+}
+
+.alumni hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 10px;
+}
+
+.img_modal {
+    display: inline-block;
+
+
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#css {
+    height: 200px;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
